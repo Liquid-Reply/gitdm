@@ -21180,6 +21180,9 @@ enaqx: a.will.farley!gmail.com, enaqx!users.noreply.github.com, enaqxx!gmail.com
 	MobileBridge from 2018-08-01
 enbohm: enbohm!users.noreply.github.com
 	Enbohm Consulting AB
+encodeflush: salahi.hossein!gmail.com, h.salahi!reply.de
+    Storm Reply GmbH until 2020-09-30
+	Liquid Reply from 2021-10-01
 enderson-pan: enderson-pan!users.noreply.github.com, enderson.pan!gmail.com
 	Emerson
 endian-benjamin: benjamin.lindqvist!endian.se, endian-benjamin!users.noreply.github.com
